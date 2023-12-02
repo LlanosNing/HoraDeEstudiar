@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548c2c93c96fe04b833ef873dfe7bf7, type: 3}
+  m_Name: D2.2
+  m_EditorClassIdentifier: 
+  StoryText: 'Que tema vas a copiar?
+
+
+    Pulsa 1 para elegir el tema'
+  nextStates:
+  - {fileID: 11400000, guid: 4651d066a4cb6db44896baec351e97c2, type: 2}

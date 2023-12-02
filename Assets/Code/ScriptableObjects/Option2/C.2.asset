@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548c2c93c96fe04b833ef873dfe7bf7, type: 3}
+  m_Name: C.2
+  m_EditorClassIdentifier: 
+  StoryText: '1- Hacerte otro bocadillo
+
+
+    2-Copiar las chuletas para el examen
+
+
+    3-Ver
+    Susi profe para sentir que has hecho algo'
+  nextStates:
+  - {fileID: 11400000, guid: 55379921c23a3c94e967f168793bf1c3, type: 2}
+  - {fileID: 11400000, guid: 3b54d48ab7c2f1c4dade182b78add6e9, type: 2}
+  - {fileID: 11400000, guid: 10cb6db9873d9894f905c463820aca37, type: 2}

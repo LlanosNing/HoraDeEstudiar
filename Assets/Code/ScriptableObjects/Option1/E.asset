@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548c2c93c96fe04b833ef873dfe7bf7, type: 3}
+  m_Name: E
+  m_EditorClassIdentifier: 
+  StoryText: 'Que vas a hacer?
+
+
+    1-Estudiarte un epigrafe
+
+
+    2-Acabar la serie
+    que tienes pendiente
+
+
+    3-Hacerte la cena'
+  nextStates:
+  - {fileID: 11400000, guid: 07c46092ff466c440a436942c8a7cc01, type: 2}
+  - {fileID: 11400000, guid: 7357ec3221271b64cbb553656b137f5f, type: 2}
+  - {fileID: 11400000, guid: 43c630094411ca24599204fa3fa634f4, type: 2}

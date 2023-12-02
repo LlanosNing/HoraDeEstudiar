@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548c2c93c96fe04b833ef873dfe7bf7, type: 3}
+  m_Name: C
+  m_EditorClassIdentifier: 
+  StoryText: '1-Estudiar al dia siguiente cuando te levantes
+
+
+    2-Inventarte algo
+    en el examen
+
+
+    3-Aceptar tu destino de ir a recuperacion
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 5186132c1d664374b89c470878efe709, type: 2}
+  - {fileID: 11400000, guid: c3e395f1f5209e147b5b5a3322f2a848, type: 2}
+  - {fileID: 11400000, guid: 0ce088e21672a3c4dad03fd15b92d30e, type: 2}
