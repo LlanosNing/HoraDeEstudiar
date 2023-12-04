@@ -316,7 +316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Presiona A para empezar
+  m_text: Presiona 1 para empezar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e300e731424607b40926248d5511babf, type: 2}
   m_sharedMaterial: {fileID: -5322228662480561465, guid: e300e731424607b40926248d5511babf, type: 2}
