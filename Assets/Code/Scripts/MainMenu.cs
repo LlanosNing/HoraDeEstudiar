@@ -14,13 +14,17 @@ public class MainMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        cambioDeEscena();
-    }
-    public void cambioDeEscena()
-    {
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             SceneManager.LoadScene("Game");
         }
+        //cambioDeEscena();
     }
+    //public void cambioDeEscena()
+    //{
+    //    if (Input.GetKeyDown(KeyCode.Alpha1))
+    //    {
+    //        SceneManager.LoadScene("Game");
+    //    }
+    //}
 }
