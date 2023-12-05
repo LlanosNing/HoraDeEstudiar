@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a548c2c93c96fe04b833ef873dfe7bf7, type: 3}
   m_Name: chooseKey
   m_EditorClassIdentifier: 
-  StoryText: 'Presiona las teclas 1, 2, 3 para elegir tu camino
+  StoryText: 'Presiona las teclas 1, 2, 3 para tomar decisiones
 
 
-    Presiona 1
-    para empezar'
+    Pulsa 1 para
+    empezar'
   nextStates:
   - {fileID: 11400000, guid: d3337532f2b7d3e4f9c245b0f36bc838, type: 2}
